@@ -1,6 +1,6 @@
 # 💻 Projeto Prático - Autoria Web
 
-Este projeto foi desenvolvido para a disciplina de **Autoria Web** do curso de **Análise e Desenvolvimento de Sistemas** na **UNIFIP - Patos-PB.
+Este projeto foi desenvolvido para a disciplina de **Autoria Web** do curso de **Análise e Desenvolvimento de Sistemas** da **UNIFIP - Patos-PB**.
 O objetivo é criar uma página utilizando apenas **HTML** e aplicar os conceitos aprendidos em aula, como estrutura básica, elementos semânticos, navegação interna e formulários.
 
 ---
