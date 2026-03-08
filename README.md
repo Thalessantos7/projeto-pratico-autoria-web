@@ -75,10 +75,5 @@ A página possui um formulário com diferentes tipos de campos, incluindo:
 
 ---
 
-## 🎥 Preview
-![]("C:\Users\Thales\OneDrive\Imagens\Screenshots\Captura de tela 2026-03-08 100133.png")
-
----
-
 ## 👨‍💻 Autores
 Projeto desenvolvido por **Thales Santos**, **José Ian** e **José Antônio** para a disciplina de **Autoria Web**.
