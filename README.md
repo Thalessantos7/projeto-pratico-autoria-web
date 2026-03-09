@@ -1,7 +1,16 @@
 # 💻 Projeto Prático - Autoria Web
 
+🌐 **Acesse o site:**
+https://thalessantos7.github.io/projeto-pratico-autoria-web/
+
 Este projeto foi desenvolvido para a disciplina de **Autoria Web** do curso de **Análise e Desenvolvimento de Sistemas** da **UNIFIP - Patos-PB**.
 O objetivo é criar uma página utilizando apenas **HTML** e aplicar os conceitos aprendidos em aula, como estrutura básica, elementos semânticos, navegação interna e formulários.
+
+---
+
+## 🚀 Tecnologias utilizadas
+
+- HTML5
 
 ---
 
